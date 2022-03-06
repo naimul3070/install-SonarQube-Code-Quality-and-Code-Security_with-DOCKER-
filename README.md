@@ -1,4 +1,4 @@
-#-----------To install Sonar Qube we need
+### To install Sonar Qube we need
 1.ubuntu 
 2.docker 
 
