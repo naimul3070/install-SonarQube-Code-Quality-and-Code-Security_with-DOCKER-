@@ -38,7 +38,7 @@ open SonarQbe and creal a project by Generate the token and run all the comand i
 
 
 
------------#deploy asp.net project-------
+### Deploy asp.net project menally----
 
 ----------Pre-requsit
 -----Setp 01.
