@@ -37,7 +37,7 @@ Environment setup
 
 
 -----STEP02.
-open SonarQbe and creal a project by Generate the token and run all the comand in project directory
+# open SonarQbe and create a project by Generate the token and run all the comand in project directory
 
 
 
@@ -60,4 +60,4 @@ Environment setup
 
 
 ---------STEP02.
-open SonarQbe and creal a project by jenerate the token and run all the comand in project directory
+# open SonarQbe and create a project by jenerate the token and run all the comand in project directory
