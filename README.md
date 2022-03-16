@@ -1,34 +1,38 @@
 ### To install Sonar Qube we need
-1.ubuntu 
+1.ubuntu
+
 2.docker 
 
 Step 1.
 
  First we need to install docker 
-$ sudo apt-get remove docker docker-engine docker.io
-$ sudo apt-get update
-$ sudp apt install docker.io
-$ sudo snap install docker
+# $ sudo apt-get remove docker docker-engine docker.io
+# $ sudo apt-get update
+# $ sudp apt install docker.io
+# $ sudo snap install docker
 
 Step 2.
-#------------Running SonarQube on Docker
-$ docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
+------------Running SonarQube on Docker
+# $ docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 
 Putll the letest sonarqube images
-$ git clone https://github.com/HoussemDellai/WebAppWithDatabaseDemo
+# $ git clone https://github.com/HoussemDellai/WebAppWithDatabaseDemo
 
 
 ### Deploy react.js project menally----
 
 -------Pre-requsit
----Setp 01.
+Setp 01.
 
-Download and configur environment
+# Download and configur environment
 
 Environment setup
 1.Java >> JAVA_HOME >> spesify the java version
+
 2.Jdk  >> path spesify the bin file
+
 3.node.js >> install node js
+
 4.sonarqube.bat .>>path spesify the bin from sonarqube runtime file
 
 
@@ -47,8 +51,11 @@ Download and configur environment
 
 Environment setup
 1.Java >> JAVA_HOME >> spesify the java version
+
 2.Jdk  >> path spesify the bin file
+
 3.node.js >> install node js
+
 4.must be install .net sdk
 
 
