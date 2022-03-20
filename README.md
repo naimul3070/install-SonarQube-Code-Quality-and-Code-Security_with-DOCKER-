@@ -9,7 +9,7 @@ Step 1.
 # $ sudo apt-get remove docker docker-engine docker.io
 # $ sudo apt-get update
 # $ sudp apt install docker.io
-# $ sudo snap install docker
+# $ sudo snapd install docker
 
 Step 2.
 ------------Running SonarQube on Docker
