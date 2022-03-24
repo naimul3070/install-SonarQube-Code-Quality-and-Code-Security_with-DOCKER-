@@ -3,7 +3,7 @@
 
 Download and configur environment
 
-#3 Environment setup
+# Environment setup
 1.Java >> JAVA_HOME >> spesify the java version
 2.Jdk  >> path spesify the bin file
 3.node.js >> install node js
