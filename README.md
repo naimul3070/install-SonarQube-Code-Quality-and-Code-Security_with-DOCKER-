@@ -28,14 +28,14 @@ Setp 01.
 
 # Download and configur environment
 
-Environment setup
-1.Java >> JAVA_HOME >> spesify the java version
+# Environment setup
+## 1.Java >> JAVA_HOME >> spesify the java version
 
-2.Jdk  >> path spesify the bin file
+## 2.Jdk  >> path spesify the bin file
 
-3.node.js >> install node js
+## 3.node.js >> install node js
 
-4.sonarqube.bat .>>path spesify the bin from sonarqube runtime file
+# 4.sonarqube.bat .>>path spesify the bin from sonarqube runtime file
 
 
 -----STEP02.
@@ -46,19 +46,19 @@ Environment setup
 
 ### Deploy asp.net project menally----
 
-----------Pre-requsit
------Setp 01.
+#### ----------Pre-requsit
+## -----Setp 01.
 
-Download and configur environment
+##v Download and configur environment
 
-Environment setup
-1.Java >> JAVA_HOME >> spesify the java version
+### Environment setup
+# 1.Java >> JAVA_HOME >> spesify the java version
 
-2.Jdk  >> path spesify the bin file
+# 2.Jdk  >> path spesify the bin file
 
-3.node.js >> install node js
+# 3.node.js >> install node js
 
-4.must be install .net sdk
+# 4.must be install .net sdk
 
 
 ---------STEP02.
