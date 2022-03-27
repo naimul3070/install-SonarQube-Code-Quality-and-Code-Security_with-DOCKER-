@@ -20,3 +20,7 @@ $ docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 
 ## Putll the letest sonarqube images
 $ git clone https://github.com/HoussemDellai/WebAppWithDatabaseDemo
+
+
+
+#### Now you are done go to browser and search with you TCP IP:9000
