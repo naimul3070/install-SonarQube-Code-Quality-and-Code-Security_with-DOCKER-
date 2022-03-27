@@ -18,6 +18,8 @@ Step 2.
 Putll the letest sonarqube images
 # $ git clone https://github.com/HoussemDellai/WebAppWithDatabaseDemo
 
+#### Now you are done go to browser and search with you TCP IP:9000
+
 
 ### Deploy react.js project menally----
 
