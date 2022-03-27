@@ -8,7 +8,7 @@ Step 1.
  First we need to install docker 
 # $ sudo apt-get remove docker docker-engine docker.io
 # $ sudo apt-get update
-# $ sudp apt install docker.io
+# $ sudo apt install docker.io
 # $ sudo snapd install docker
 
 Step 2.
