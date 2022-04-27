@@ -1,4 +1,4 @@
-## Welcoem
+## Welcome
 
 ### Installation Guide SonarQube A to Z
 
