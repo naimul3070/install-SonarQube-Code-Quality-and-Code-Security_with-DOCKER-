@@ -1,4 +1,4 @@
-## Welcoem to iBOS DevOps Team.
+## Welcoem
 
 ### Installation Guide SonarQube A to Z
 
